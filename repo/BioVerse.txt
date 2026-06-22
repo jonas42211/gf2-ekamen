@@ -1,0 +1,102 @@
+MOODLE TEKST
+GRUNDFORLØBS EKSAMEN JUNI 2026: 
+
+BioVerse©
+
+Du skal kode et givent designudkast til en simpel "Onepage-landingpage" omkring BioVerse© - Naturlige Hudplejeprodukter.
+
+Der er udarbejdet et design, og der er angivet "forslag" til hvordan siden skal se ud i forskellige opløsninger / Devices!
+
+Du skal anvende de angivne Fonte, Farver samt det "overordnede design" men må på enkelte områder gerne afvige en smule, hvis du kan forsvare hvorfor, OG i øvrigt overholder de grafiske elementer, herunder farver!
+
+Siden skal kunne vises og være brugbar på forskellige devices, som minimum:
+
+Mobil
+Desktop
+
+JAVASCRIPT I OPGAVEN!
+
+Der er i opgaven krav om en mindre "Formular", der skal kunne tilgås evt. via en "Modal", og du skal bruge Javascript til at validere Formularen. Desuden er der "mulighed" for at anvende JavaScript på en "modal", hvis du vælger at bruge denne til at "åbne" formularen med, OG i den der lille "Image-Switcher" / "Product-Viewer"! - Du skal som minimum lave "simpel validering" med Javascript på formularen (Evt. blot en "Alert"?)
+
+HTML & CSS!
+HUSK nu at bruge de "relevante", eller "logiske" elementer som "sections", "articles", "figure" til de dele der nu "passer ind" i det? - SØRG FOR, at have en god "struktur" og "overhold" de her "anbefalinger" fra W3.org ("alt-tagget" på billeder, "Så vidt muligt" en enkelt h1, brug f.eks. "h2" til "sektionsoverskrifter" og måske "h3" i artikler og sådan?)
+
+MATERIALER
+Ligger på den USB i får udleveret, samt på Moodle.
+
+OPGAVEN PÅ MOODLE:
+https://moodle.techcollege.dk/course/view.php?id=18319
+
+"XD-DESIGN MANUAL"
+https://xd.adobe.com/view/57f2bbfc-b2d1-4e38-b020-bcc43496be10-02a1/
+
+
+INDHOLDS TEKST:
+
+*****************************GLOBAL HEADER:*********************************
+BioVerse©
+
+*****************************GLOBAL NAVIGATION:*****************************
+Om BioVerse
+Produkter
+Handmade
+Kontakt
+
+Tilmeld Nyhedsbrev
+
+*****************************SECTION OM BIOVERSE:*****************************
+Om BioVerse©
+Med udgangspunkt i FN´s 17 Verdensmål fremstiller og sælger BioVerse en række organiske og naturlige plejeprodukter med omtanke for mennesker og miljø.
+
+Mission Statement
+I modsætning til konventionelle produkter, der kan udtørre huden, indeholder organiske sæber oftest naturlige ingredienser som sheasmør og kokosolie.
+
+Miljø og kvalitet prioriteres højt i BioVerse, og vore organiske sæber bevarer hudens naturlige fugtbalance. Disse sæber er typisk fremstillet af planteolier, æteriske olier og naturlige ekstrakter.
+
+Ved at vælge organiske sæber fra BioVerse investerer man ikke kun i sin egen hudpleje, men også i en grønnere fremtid for alle.
+
+
+***************************SECTION OM PRODUKTERNE:****************************
+Produkterne
+Vi producerer og sælger en lang række produkter udover sæbe og plejeprodukter.
+
+
+Vore Sæber
+Organiske sæber bliver stadig mere populære blandt forbrugere, der ønsker en mere skånsom og bæredygtig tilgang til hudpleje.
+
+BioVerse fokuserer på rene ingredienser i harmoni med huden. Vore sæber er typisk fremstillet af planteolier, æteriske olier og naturlige ekstrakter.
+
+Vi er vores ansvar bevidst og lever op til de strengeste certificeringer. Allergi-mærker som AllergyCertified og Asthma Allergy Nordic er garanti for, at produkterne er parfumefri og uden kendte allergene stoffer.
+
+
+Ingredienser
+Huden er kroppens største organ og kræver særlig opmærksomhed. Organiske sæber fra BioVerse er udviklet til at beskytte og pleje huden uden brug af syntetiske kemikalier.
+
+De naturlige ingredienser i organiske sæber arbejder sammen med hudens egne processer. De hjælper med at opretholde en sund pH-balance og understøtter hudens naturlige forsvar.
+
+BioVerse anvender kun ingredienser af høj kvalitet, som er skånsomt behandlet for at bevare deres egenskaber. Produkterne leverer maksimal effekt uden at gå på kompromis med sikkerheden.
+
+
+Alt det andet
+BioVerse er en virksomhed, der tager vores ansvar alvorligt, dels ved at producere organiske sæber og plejeprodukter med omtanke for miljøet herunder ingredienser og emballage.
+
+Udover sæbe og plejeprodukter forhandler vi også en række assesories som badesvampe, klude, håndklæder, børster, dispensere og meget mere. Alt sammen produceret med hensyn til miljø og bæredygtighed.
+
+BioVerse fortsætter med at udvikle produkter, der understøtter denne udvikling og giver forbrugerne bedre valgmuligheder.
+
+
+*****************************SECTION HANDMADE:*******************************
+Handmade
+Vi har fire typer håndlavede sæber, vælg en for at læse mere
+
+
+*****************************GLOBAL FOOTER:**********************************
+BioVerse Informationer
+John F. Kennedys Pl. 2
+9000 Aalborg
+9813 2200
+email: info@reuse.dk
+CVR: 19781739
+_______________________
+
+***GOOGLE MAPS***
