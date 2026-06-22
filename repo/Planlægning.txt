@@ -1,3 +1,11 @@
 html vil tage mig max 2 timer  html to mig 1time
 css vil tage mig max 4 timer 
 js vil tage mig max 1:30 time
+
+
+
+
+
+det gik maget godt få mig det to lidt tid og få lavet logoet og kunne ikke lave nav sticky 
+men efter der gik det som det skulle mit html to mig kun 1 time 
+og css og js to mig 4-5 timer og media to mig lidt over 1time
